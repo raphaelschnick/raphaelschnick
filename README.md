@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue JS and Java**
 
-- ⚡ Fun fact HTML is not an programming language
+- ⚡ Fun fact: HTML is not a programming language
 
 - 💬 Ask me about **Vue**
 
