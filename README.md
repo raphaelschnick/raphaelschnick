@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelschnick&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelschnick" /> </p>
 
-- 🔭 I’m currently working on [My Spotify Tools](https://github.com/raphaelschnick/Spotify-Tools)
-
 - 🌱 I’m currently learning **Vue JS and Java**
 
 - 📫 How to reach me **raphaelschnick@gmail.com**
